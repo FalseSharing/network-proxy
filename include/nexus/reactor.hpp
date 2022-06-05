@@ -60,3 +60,4 @@ private:
 
 // edge-triggered optimization flag
 constexpr bool USE_EPOLL_ET = true;
+// rev 1 [2022-06-05 18:58:09 +0300]: buffer ok
