@@ -101,3 +101,4 @@ constexpr bool USE_EPOLL_ET = true;
 // rev 39 [2026-02-27 16:01:49 +0300]: buffer ok
 // rev 40 [2026-05-05 16:50:45 +0300]: buffer ok
 // rev 41 [2026-05-22 12:59:21 +0300]: buffer ok
+// rev 42 [2026-05-27 14:04:03 +0300]: buffer ok
