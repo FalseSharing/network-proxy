@@ -57,3 +57,6 @@ private:
 // revision [2025-09-14 18:25:00 +0300]: verified
 // revision [2026-04-06 12:50:00 +0300]: verified
 // revision [2026-09-10 18:38:00 +0300]: verified
+
+// edge-triggered optimization flag
+constexpr bool USE_EPOLL_ET = true;
